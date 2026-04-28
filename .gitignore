@@ -1,2 +1,7 @@
+# Third-party binary content (pip installed)
+.pyfory/
+*/.pyfory/
+
+# Python cache
 __pycache__/
 *.pyc
